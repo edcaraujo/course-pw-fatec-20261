@@ -49,18 +49,47 @@ request/response e conexão com BD."*
 
 ## Ementa
 
-- Fundamentos do Desenvolvimento Web
-    - Introdução
-    - [Apidog](https://apidog.com/pt-BR/)
-    - [Git](https://git-scm.com/)
-    - [Docker](https://www.docker.com/)
-    - API (*Hands on*)
+- Desenvolvimento de aplicações Web (Part. 1)
+- Desenvolvimento de aplicações Web (Part. 2)
+- Revisão: Git
+- Revisão: Conteinerização (Docker)
+- API: Design, Documentação e Teste (Apidog)
+
+---
+
+## Ementa
+
+- API: Hello World (Part. 1)
+- API: Hello World (Part. 2)
+- API: Contextualização
+- API: Autenticação (Part. 1)
+- API: Autenticação (Part. 2)
+
+---
+
+## Ementa
+
+- Projeto
+- API: ORM (Part. 1)
+- API: ORM (Part. 2)
+- API: Design, Documentação e Teste (Swagger)
+- API: Teste (Jest)
+
+---
+
+## Ementa
+
+- API: Teste (Apidog)
+- API: Deploy (Render)
 
 ---
 
 ## Avaliação
 
-- Prova* + Projeto
+- :pencil: Avaliação (P1)
+- :package: Avaliação (P2)
+- :pencil: Avaliação (SUB)
+- :pencil: Avaliação (REC)*
 
 ---
 
