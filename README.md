@@ -5,3 +5,4 @@ Materiais da disciplina de 'Programação Web' 2026.1 do curso de Análise e Des
 
 *   [00-pw-helloworld](00-pw-helloworld/00-pw-helloworld.md)
 *   [01-pw-desenvolvimento-de-aplicacoes-web-part-1](01-pw-desenvolvimento-de-aplicacoes-web-part-1/01-pw-desenvolvimento-de-aplicacoes-web-part-1.md)
+*   [02-pw-desenvolvimento-de-aplicacoes-web-part-2](02-pw-desenvolvimento-de-aplicacoes-web-part-2/02-pw-desenvolvimento-de-aplicacoes-web-part-2.md)
