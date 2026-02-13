@@ -8,15 +8,14 @@ description: "Disciplina de Programação Web."
 theme: "default"
 class: "invert"
 
-footer: "Eduardo Cruz Araujo | Programação Web | Fatec | 2026.1"
+footer: "Eduardo Cruz Araujo | Fatec | 2026.1 | Programação Web | Hello World"
 
 paginate: "true"
 
 ---
 
 # Programação Web :mortar_board:
-
-*Hello World*
+## Hello World
 
 ---
 
