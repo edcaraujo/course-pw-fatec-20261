@@ -257,6 +257,5 @@ Desenvolvimento de aplicações Web (Part. 1)
 ## Eduardo Cruz Araujo
 
 - E-mail: [eduardo.araujo28@fatec.sp.gov.br](eduardo.araujo28@fatec.sp.gov.br)
-- Instagram: [edcaraujo](https://www.linkedin.com/in/edcaraujo/)
 - Linkedin: [edcaraujo](https://www.instagram.com/)
 - Github: [edcaraujo](https://github.com/edcaraujo)

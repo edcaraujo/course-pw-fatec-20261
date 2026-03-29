@@ -569,6 +569,5 @@ Um padr√£o para escrever mensagens de commit claras e que podem ser lidas por m√
 ## Eduardo Cruz Araujo
 
 - E-mail: [eduardo.araujo28@fatec.sp.gov.br](eduardo.araujo28@fatec.sp.gov.br)
-- Instagram: [edcaraujo](https://www.linkedin.com/in/edcaraujo/)
 - Linkedin: [edcaraujo](https://www.instagram.com/)
 - Github: [edcaraujo](https://github.com/edcaraujo)
